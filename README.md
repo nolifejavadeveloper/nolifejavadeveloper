@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I do Java C#(maybe) Go Html Css Js
+My program kept on returning 254 even though the value is 766, hold on I just realized I'm using a byte as datatype 💀
 
 <!--
 **nolifejavadeveloper/nolifejavadeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
