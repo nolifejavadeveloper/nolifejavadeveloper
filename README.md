@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My program kept on returning 254 even though the value is 766, hold on I just realized I'm using a byte as datatype 💀
+Currently working on goproV2
 
 <!--
 **nolifejavadeveloper/nolifejavadeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
