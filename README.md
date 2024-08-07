@@ -1,13 +1,11 @@
 ## Hi there 👋
 
 
-
-<!--
-**nolifejavadeveloper/nolifejavadeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Stuff I love:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+<!--
+**nolifejavadeveloper/nolifejavadeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
