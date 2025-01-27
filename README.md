@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ethan</h1>
-<h3 align="center">Someone who sucks at programming :(</h3>
+<h3 align="center">idk what to put here</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nolifejavadeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="nolifejavadeveloper" /> </p>
 
